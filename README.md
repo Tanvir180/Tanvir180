@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Sc in Computer Science and Engineering, Jagannath University (CGPA: 3.59)
+- 🎓 B.Sc in Computer Science and Engineering, Jagannath University
 - 💼 Junior App Developer at **Bdjobs.com**, working on iOS apps using Swift
 - 🔬 Published research in **Springer Nature** on detecting depression using machine learning
 - 🚀 Strong passion for mobile app development, backend systems, and machine learning
