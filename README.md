@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Tanvir Ahammed Hridoy</h1>
-<h3 align="center">iOS Developer | CSE Graduate | Passionate about Tech & Research</h3>
+<h3 align="center">Application Developer | CSE Graduate | Passionate about Tech & Research</h3>
 
 <p align="center">
   <a href="mailto:hmhridoy65@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
