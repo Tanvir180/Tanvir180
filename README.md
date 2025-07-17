@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:hmhridoy65@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Tanvir180"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanvir-ahammed-b852b11b7"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -18,65 +18,18 @@
 
 ---
 
-### 🛠️ Skills
 
-**Languages:** Swift, Python, C++, C#, Dart, JavaScript, PHP  
-**Frameworks & Tools:** Flutter, ASP.NET Core, LaTeX, TensorFlow, Scikit-learn, NumPy, Pandas  
-**Database:** MySQL, Firebase, SQLite  
-**DevOps:** Git, Docker, Kubernetes, CI/CD  
-**Design & Docs:** HTML, CSS, Bootstrap, Figma
+### 📊 GitHub Stats
 
----
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir180&theme=tokyonight)
 
-### 📱 Notable Projects
 
-- **📲 Bdjobs iOS App**  
-  A complete job portal for iOS with applied jobs, job details, employer messaging, job fairs, plans & pricing.  
-  *Tech:* Swift, Firebase, SQLite, REST APIs  
-  *Live:* [App Store Link]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir180&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir180&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-- **👨‍💼 Earner App**  
-  A job application and remote interview platform.  
-  *Tech:* Flutter, Dart, Firebase  
-  *GitHub:* [Link]
+[![Tanvir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvir180&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-- **🍽️ JNU Canteen App & Website**  
-  QR-powered ordering system for university canteen.  
-  *Tech:* Flutter, PHP, MySQL, Firebase  
-  *GitHub:* [App](#) | [Website](#)
 
-- **🛍️ FashionBD**  
-  E-commerce platform with role-based login and full product lifecycle.  
-  *Tech:* PHP, JS, Bootstrap, MySQL  
-  *GitHub:* [Link]
 
-- **⚙️ Kubernetes Deployment**  
-  Load-balanced website with pod failure handling and autoscaling.  
-  *Tech:* Docker, Kubernetes  
-  *GitHub:* [Link]
-
-- **🧠 Hello Assistant**  
-  AI-based personal voice assistant to perform desktop tasks.  
-  *Tech:* Python  
-  *GitHub:* [Link]
-
----
-
-### 📚 Research
-
-**Title:** *Leveraging Web Scraping and Stacking Ensemble ML to Detect Depression from Social Media*  
-**Publication:** Social Network Analysis and Mining, Springer Nature  
-**DOI:** [10.1007/s13278-024-01392-w](https://doi.org/10.1007/s13278-024-01392-w)  
-**Tech Used:** Web Scraping, NLP, Sentiment Analysis, Deep Learning, Ensemble Learning
-
----
-
-### 📫 Contact
-
-- 📍 Sutrapur, Dhaka, Bangladesh  
-- 📞 +8801575249992  
-- 📧 hmhridoy65@gmail.com  
-
----
 
 *“Always building. Always learning.”*
